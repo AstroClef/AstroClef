@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AstroClef
-- 👀 I’m interested in software project management and game development.
-- 🌱 I’m currently learning python, C#, and the Unity game engine. Unreal is looking pretty tasty too!
-- 💞️ I’m looking to collaborate where ever I can to practice my development skill set.
-- 📫 How to reach me...
+- 👀 I’m interested in Software Project Management and game development.
+- 🌱 I’m currently learning Python, C#, and the Unity game engine. Unreal is looking pretty tasty too!
+- 💞️ I’m always looking to learn and collaborate where ever I can to practice my development skill set.
 
 <!---
 AstroClef/AstroClef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
